@@ -5,5 +5,6 @@ function setup() {
 function draw() {
   background(220);
   // Det er mega fedt.
+  fill(255, 0, 0);
   circle(width / 2, height / 2, 100);
 }
