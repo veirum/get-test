@@ -4,5 +4,6 @@ function setup() {
 
 function draw() {
   background(220);
+  // Det er mega fedt.
   circle(width / 2, height / 2, 100);
 }
